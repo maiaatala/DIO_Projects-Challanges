@@ -1,0 +1,30 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    color: green;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+button {
+    font-family: fantasy;
+    font-size: 24px;
+    color: lightgreen;
+    font-weight: normal;
+    
+    width: 200px;
+    height: 100px;
+    background-color: green;
+
+    margin-bottom: 16px;
+}
+
+canvas {
+    display: none;
+}
